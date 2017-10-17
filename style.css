@@ -1,0 +1,23 @@
+
+body {
+    background-image: url("Website-Design-Background.jpg");
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-color: #3c3c3c;
+    background-size: cover;
+}
+h1{
+    color: white;
+	font-family: 'Permanent Marker', cursive;
+}
+.in-middle{
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	display: flex;
+	height: 100vh;
+}
+.startBtn
+	
+}
